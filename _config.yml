@@ -19,15 +19,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mason S. Reasner
+title: Daniel Gulti Kebede
 job: PhD Candidate
-email: mreasne@purdue.edu
+email: dkebede@purdue.edu
 description: >- # this means to ignore newlines until "baseurl:"
- I'm a PhD Candidate in Economics at Purdue University with research interests in economic geography and international trade.
+ I'm a PhD Candidate in Economics at Purdue University with research interests in applied econometrics, macroeconomics and development economics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: reasner
-github_username: reasner
+linkedin_username: Daniel Gulti Kebede
+github_username: dangulti
 
 
 # Build settings
@@ -37,6 +37,7 @@ header pages:
  - research.md
  - teaching.md
  - cv.md
+ - Blog.md
 
 #sass/SCSS
 sass:
