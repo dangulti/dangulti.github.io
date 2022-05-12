@@ -3,10 +3,12 @@ layout: home
 title: Welcome!
 ---
 
-{% include image.html url="./assets/images/reasner_me.jpg" width=325 align="right" %}
+{% include image.html url="./assets/images/kebede.jpg" width=325 align="right" %}
 
-Welcome! I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/Economics/) at Purdue University. My research focuses on economic geography, i.e., spatial variation in economic activity, and international trade, with an emphasis on local economic development policies. <!-- You can find abstracts, working papers, and a list of works in progress on my [research]({{site.baseurl}}/research/) page. --> 
+Welcome! I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/Economics/) at Purdue University. My research interest is applying non-stationary time series models in macroeconomics. My Job Market Paper analyzes household consumption insurance, i.e., the fraction of income shocks that passes through to consumption. <!-- You can find abstracts, working papers, and a list of works in progress on my [research]({{site.baseurl}}/research/) page. --> 
 
-Before coming to Purdue, I graduated from Vanderbilt University with a BA in [Economics](https://as.vanderbilt.edu/economics/). I have also worked as a Research Analyst (Short Term Consultant) at the [World Bank](https://www.worldbank.org/). 
+Before coming to Purdue, I graduated from Columbia University with a Masters degree in Advanced Economic and Policy Analysis [Economics](https://www.columbia.edu/). I received my BA degree in Economics from Hawassa University in Ethiopia. I have also worked as a data scientist at Byteflow Dynamics (https://www.byteflows.com/) and Research Analyst at Ethiopian Agricultural Transformation Agency (https://www.ata.gov.et/). 
 
-When I am not in my office, I enjoy taking in nature while running or hiking. I also love to travel, especially when I get a chance to scuba dive or ski!
+I will be on the job market in 2022-23 and I will be available for interviews at the AEA meetings January 5-8, New Orleans, Louisiana.
+
+In my spare time I love playing and watching soccer and basketball. I also enjoy other out door activities like hiking. 
