@@ -3,7 +3,7 @@ layout: home
 title: Welcome!
 ---
 
-{% include image.html url="./assets/images/Daniel_website.jpg" width=325 align="right" %}
+{% include image.html url="./assets/images/Daniel_website.jpg" width=400 align="right" %}
 
 Welcome! I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/Economics/) at Purdue University. My research interest is applying non-stationary time series models in macroeconomics. My Job Market Paper analyzes household consumption insurance, i.e., the fraction of income shocks that passes through to consumption. <!-- You can find abstracts, working papers, and a list of works in progress on my [research]({{site.baseurl}}/research/) page. --> 
 
