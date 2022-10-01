@@ -29,9 +29,9 @@ Download a copy of my [teaching statement](../assets/docs/teaching.pdf).
 | Recitation Instructor for ECON 210, Principles of Economics [(Eval.)](../assets/docs/reasner_eval_210_fa16.pdf) | Fall 2016 |
 {:.custom-table}
 
-| Vanderbilt University | Nashville, TN |
+| Columbia University | New York City, NY |
 | ----------- | ----------: |
-| Recitation Instructor for ECON 150, Economic Statistics [(Eval.)](../assets/docs/reasner_eval_150_s15.pdf) | Spring 2015 |
+| Quantitative Method I [(Eval.)](../assets/docs/dan.pdf) | Spring 2015 |
 {:.custom-table}
 
 
