@@ -8,48 +8,34 @@ permalink: /research/
 ***
 ### Working Papers:
 
-#### Agglomeration and Congestion Spillovers: Evidence from Base Realignment and Closure 
-##### [Current Version](../assets/docs/reasner_jmp.pdf)
+#### Modeling Earning Process and Analyzing Household Consumption Insurance
+##### [Current Version](../assets/docs/Daniel_jmp.pdf)
 
-I quantify agglomeration and congestion spillovers using variation from a natural experiment by instrumenting for changes in local employment with proposed changes to civilian employment at military installations through the Base Realignment and Closure (BRAC) process. I find an agglomeration spillover elasticity consistent with the existing literature. However, my estimate of the congestion spillover elasticity is smaller in magnitude than common parameterizations of quantitative economic geography models. All else equal, with a weaker congestion spillover elasticity, more of the distribution of economic activity across space is due to natural advantages and disadvantages. This result implies that the gains from implementing the optimal spatial policy are smaller. 
+The study of income and consumption linkage and analysis of permanent and transitory income shocks is limited by availability of data. To deal with data sparsity, I propose identifying the partial consumption insurance and income and consumption volatility heterogeneities at the household level using Least Absolute shrinkage and Selection Operator (LASSO). Using PSID data, I estimate partial consumption insurance against permanent shock of 63\% and 49\% for white and black household heads, respectively; the white and black household heads self-insure against 100\% and 90\% of the transitory income shocks, respectively. Moreover, I find income and consumption volatilities and partial consumption insurance parameters vary across time.
 
-#### International Sourcing and Firm Learning: Evidence from Serbian Firms (with Shawn W. Tan, World Bank)
-##### [WPS9790 (World Bank Policy Research Working Paper Series)](https://documents1.worldbank.org/curated/en/903471633369980079/pdf/International-Sourcing-and-Firm-Learning-Evidence-from-Serbian-Firms.pdf)
+#### Microeconomic Sources of Productivity Growth Across Japanese Cities (with Mario J Crucini, Purdue University)
+##### [Current Version](../assets/docs/Mario_Daniel_jmp.pdf)
 
-We quantify the impact of neighboring firms' importing experience on the decision to start sourcing inputs from new markets using merged customs and administrative data from Serbian firms. We find that firms are more likely to start importing from a new market if neighboring firms in the same industry and location have experience importing from that market and if those firms are increasing their imports over time. Further, our results support a distinction between imports and exports for the decision to enter foreign markets; unlike exports, import sourcing choices are not independent across countries. We find that imports across origins are substitutes, not complements. We also investigate origin-country and firm heterogeneity. Our results indicate that the impact of neighboring firms' importing experience is greater for source countries in the European Union market and for firms that are high productivity, foreign owned, and previous importers. Together, these findings suggest that a firm's spatial connections are an important contributor to its access to global markets as sources for inputs.
+The combination of perfect competition and Cobb-Douglas production equates aggregate labor productivity with the real wage. This paper uses micro-data to decompose total labor productivity with into the contributions of individual goods and services. Prices that rise at more than the average rate produce tail winds in labor productivity growth while those that fall spur advances. This concept is applied to approximately 114 retail goods and services sold across 68 cities in Japan over the period from 1961 to 2018.
 
-#### Local Fiscal Multipliers and Defense Spending 
-##### [Current Version](../assets/docs/multipliers.pdf)
+#### Testing Smooth Structural Breaks in Predictive Regression
+##### [Current Version](../assets/docs/SmoothBreaks.pdf)
 
-I estimate county-level fiscal multipliers using shocks to military employment to instrument for local defense spending. Aggregate shocks to military employment are subject to the Base Realignment and Closure process, which is designed to isolate the recommendations of the Department of Defense from political influences. By exploiting variation in military employment, I address the endogeneity of government spending when using changes in defense spending to estimate fiscal multipliers. In addition, this method addresses the attenuation bias due to geographic measurement error that results from using data on military contracts alone with small geographic units. This extends the common method for estimating state- and national-level fiscal multipliers to more local geographic units. My estimates imply a local income multiplier between 0.5 and 0.8, which is smaller than existing estimates that use non-defense based sources of variation, but larger than the existing estimates based on variation in defense contract spending. 
+We consider smooth structural break test proposed by Chen and Hong (2012), in a predictive regression setting. The regressors are characterized using the local to non-stationarity framework. We
+conducted a Monte Carlo experiment to evaluate the finite sample performance of the test statistic and an empirical example is examined to demonstrate the practical application of the proposed test statistic. The Monte Carlo simulations show that the proposed test statistic has better or as good power and size when compared to the popular SupF and LM. Empirically, compared to SupF and LM, the proposed test statistic rejects the null hypothesis of no structural break more frequently when there actually is a structural break present in the data. 
 
 ### Works in Progress:
 
-#### Spatial Reallocation and Climate Change: Evidence from Climate-biased Technological Change
+#### Do Incentives Matter? Evidence from COVID 19 Vaccine rollout (with James Reeder, Purdue University)
 
-#### First- versus Late-mover Performance in International Sourcing (with Shawn W. Tan, World Bank)
+#### Interactive Fixed Effect (IFE) Estimators with applications in Finance (with Michael Pagano, University of Villanova)
 
 ### Research Experience:
 
 | Purdue University | West Lafayette, IN |
 | ----------- | ----------: |
-| Research Assistant to Prof. Anson Soderbery | May  2017 – Present |
-| Research Assistant to Prof. Victoria Prowse | May 2021 – August 2021 |
-| Research Assistant to Prof. Farid Farrokhi | Aug. 2019 - May 2020 | 
-| Research Assistant to Prof. Joe Mazur | Jan. 2018 – May 2018 |
-| Research Assistant to Prof. Victoria Prowse | May 2017 – Aug. 2017 |
-| Research Assistant to Prof. Farid Farrokhi | Aug. 2016 – May 2017 |
+| Research Assistant to Prof. Justin Tobias | Fall 2019 |
+| Research Assistant to Prof. Joshua Chan   | Spring 2020 |
+| Research Assistant to Prof. Mario Crucini | September 2021 - Present | 
 {:.custom-table}
-
-| The World Bank | Washington, D.C. |
-| -------------- | ---------------: |
-| Research Analyst (Short-term Consultant) | June 2018  - May 2019 |
-{:.custom-table}
-
-| Vanderbilt University | Nashville, TN |
-| --------------------- | ------------: |
-| Research Assistant to Prof. Mario J. Crucini | May 2015 - May 2016 |
-| Research Assistant to Prof. William J. Collins | Apr. 2015 - May 2015 |
-{:.custom-table}
-
 
