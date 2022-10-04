@@ -32,8 +32,8 @@ Download a copy of my [teaching statement](../assets/docs/Dan_teaching.pdf).
 
 | Columbia University | New York City, NY |
 | ----------- | ----------: |
-| Quantitative Method II | Fall 2015 |
-| Quantitative Method I | Spring 2016 |
+| Quantitative Method II | spring 2016 |
+| Quantitative Method I | Fall 2015 |
 {:.custom-table}
 
 
