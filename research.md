@@ -15,7 +15,7 @@ The study of income and consumption linkage and analysis of permanent and transi
 
 #### Testing Smooth Structural Breaks in Predictive Regression
 
-We consider smooth structural break test proposed by Chen and Hong (2012), in a predictive regression setting. The regressors are characterized using the local to non-stationarity framework. We conducted a Monte Carlo experiment to evaluate the finite sample performance of the test statistic and an empirical example is examined to demonstrate the practical application of the proposed test statistic. The Monte Carlo simulations show that the proposed test statistic has better or as good power and size when compared to the popular SupF and LM. Empirically, compared to SupF and LM, the proposed test statistic rejects the null hypothesis of no structural break more frequently when there actually is a structural break present in the data. 
+I consider smooth structural break test proposed by Chen and Hong (2012), in a predictive regression setting. The regressors are characterized using the local to non-stationarity framework. I conduct a Monte Carlo experiment to evaluate the finite sample performance of the test statistic and examine an empirical example to demonstrate its practical application. The Monte Carlo simulations show that the test statistic has better power and size compared to the popular SupF and LM. Empirically, compared to SupF and LM, the test statistic rejects the null hypothesis of no structural break more frequently when there actually is a structural break present in the data. 
 
 ### Works in Progress:
 
