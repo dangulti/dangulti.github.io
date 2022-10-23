@@ -25,9 +25,9 @@ Download a copy of my [teaching statement](../assets/docs/Dan_teaching.pdf).
 | Teaching Assistant for ECON 590, Mathematics for Economists | Fall 2020 |
 | Teaching Assistant for ECON 590, Probability and Statistics | Fall 2020|
 | Teaching Assistant for ECON 380, Labor Economics | Fall 2019|
-| Instructor for ECON 251, Macroeconomics [(Eval.)](../assets/docs/Daniel_eval_251_su18.pdf) | Summer 2019 |
+| Instructor for ECON 251, Macroeconomics | Summer 2019 |
 | Teaching Assistant for ECON 615, Mathematical Economics (PhD Level Course)| Fall 2018 |
-| Recitation Instructor for ECON 210, Principles of Economics [(Eval.)](../assets/docs/Daniel_eval_210_fa16.pdf) | Fall 2017|
+| Recitation Instructor for ECON 210, Principles of Economics [(Eval.)](../assets/docs/Daniel_Fall2017.pdf) | Fall 2017|
 {:.custom-table}
 
 | Columbia University | New York City, NY |
