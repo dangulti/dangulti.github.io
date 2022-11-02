@@ -10,8 +10,6 @@ Teaching Statement:
 --->
 ***
 
-Download a copy of my [teaching statement](../assets/docs/Dan_teaching.pdf).
-
 ### Teaching Experience
 
 | Purdue University | West Lafayette, IN |
