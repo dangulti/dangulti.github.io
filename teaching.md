@@ -25,7 +25,8 @@ Teaching Statement:
 | Teaching Assistant for ECON 380, Labor Economics | Fall 2019|
 | Instructor for ECON 251, Macroeconomics | Summer 2019 |
 | Teaching Assistant for ECON 615, Mathematical Economics (PhD Level Course)| Fall 2018 |
-| Recitation Instructor for ECON 210, Principles of Economics [(Eval.)](../assets/docs/Principle_Economics_Evaluation_2017.PDF)|Fall 2017|
+| Recitation Instructor for ECON 210, Principles of Economics 
+ [(Eval.)](../assets/docs/Principle_Economics_Evaluation_2017.PDF)|Fall 2017|
 {:.custom-table}
 
 | Columbia University | New York City, NY |
