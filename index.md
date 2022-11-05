@@ -9,4 +9,4 @@ Welcome! I am a PhD candidate in the [Department of Economics](https://krannert.
 
 Before coming to Purdue, I graduated from Columbia University with a Masters degree in [Advanced Economic and Policy Analysis](https://www.columbia.edu/). I received my BA degree from Hawassa University in Ethiopia in [Economics](https://www.hu.edu.et/). I have also worked as a data scientist at [Byteflow Dynamics](https://www.byteflows.com/) and Research Analyst at [Ethiopian Agricultural Transformation Agency](https://www.ata.gov.et/). 
 
-In my spare time I love playing and watching soccer and basketball. I also enjoy other out door activities like hiking and hanging out with friends. 
+In my spare time I love playing and watching soccer and basketball. I also enjoy other outdoor activities like hiking and hanging out with friends. 
