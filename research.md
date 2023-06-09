@@ -9,7 +9,7 @@ permalink: /research/
 ### Working Papers:
 
 #### Modeling Earning Process and Analyzing Household Consumption Insurance (Job Market Paper)
-##### [Current Version](../assets/docs/JMP.pdf)
+##### [Current Version](../assets/docs/JJMP.pdf)
 
 The study of income and consumption linkage and analysis of permanent and transitory income shocks is limited by model misspecification and availability of data. The misspecification arises from ignoring unemployment risk while estimating income shocks. I employ Heckman two step regression model to consistently estimate income shocks. Moreover, to deal with data sparsity, I propose identifying the partial consumption insurance and income and consumption volatility heterogeneities at the household level using Least Absolute shrinkage and Selection Operator (LASSO). Using PSID data, I estimate partial consumption insurance against permanent shock of 63% and 49% for white and black household heads, respectively; the white and black household heads self-insure against 100% and 90% of the transitory income shocks, respectively. Moreover, I find income and consumption volatilities and partial consumption insurance parameters vary across time.
 
