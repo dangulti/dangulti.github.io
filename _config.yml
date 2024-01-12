@@ -20,10 +20,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Daniel Gulti Kebede
-job: PhD Candidate
-email: dkebede@purdue.edu
+job: Visiting Assistant Professor
+email: dkebede@colgate.edu
 description: >- # this means to ignore newlines until "baseurl:"
- I'm a PhD Candidate in Economics at Purdue University with research interests in applied econometrics, macroeconomics and development economics.
+ I'm a visiting assistant professor in Economics at Colgate University with research interests in macroeconomics, applied econometrics, machine learning and development economics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: Daniel Gulti Kebede
