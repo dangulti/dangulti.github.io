@@ -3,12 +3,12 @@ layout: home
 title: Welcome!
 ---
 
-{% include image.html url="./assets/images/Daniel_website.jpg" width=325 align="right" %}
+{% include image.html url="./assets/images/Daniel_photo.jpg" width=325 align="right" %}
 
-Welcome! I am a PhD candidate in the [Department of Economics](https://krannert.purdue.edu/academics/Economics/) at Purdue University. My research interest is applying non-stationary time series models in macroeconomics. My job market paper analyzes earning dynamics and household consumption insurance, i.e., the fraction of income shocks households self-insure against. I will be on the job market in 2022-23 and I will be available for interviews at the AEA meetings January 5-8, New Orleans, Louisiana. 
+Welcome! I am a visiting assistant professor at Colgate University department of Economics. I am broadly interested in applying frontier econometric models to interesting economic problems. My job market paper analyzes earning dynamics and household consumption insurance, i.e., the fraction of income shocks households self-insure against. 
 
-#### JMP: Modeling Earnings Processes and Consumption Insurance at the Household Level
-##### Abstract
-The study of income and consumption linkage and analysis of permanent and transitory income shocks is limited by model misspecification and availability of data. The misspecification arises from ignoring unemployment risk while estimating income shocks. I employ Heckman two step regression model to consistently estimate income shocks. Moreover, to deal with data sparsity, I propose identifying the partial consumption insurance and income and consumption volatility heterogeneities at the household level using Least Absolute shrinkage and Selection Operator (LASSO). Using PSID data, I estimate partial consumption insurance against permanent shock of 63% and 49% for white and black household heads, respectively; the white and black household heads self-insure against 100% and 90% of the transitory income shocks, respectively. Moreover, I find income and consumption volatilities and partial consumption insurance parameters vary across time.
+My current research focuses on analyzing income and consumption dynamics and examines the link between income and consumption inequality. Another interesting exercise is analyzing how this link various across different demographic characteristics. Dimensions of heterogeneity can come in the form of various demographic characteristics including age, level of education, race, sex, etc. 
 
-#### Fields: Macroeconomics, Econometrics and Finance
+To address questions, I rely on techniques from classical econometrics, structural modeling and cutting-edge machine learning techniques as needed.
+
+#### Fields: Macroeconomics, Econometrics and Machine Learning.
